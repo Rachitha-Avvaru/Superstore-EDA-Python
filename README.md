@@ -69,12 +69,3 @@ regional performance, and customer segment insights.
 
 ### Chart 10 - Profit by Sub-Category
 ![chart10](chart10_profit_by_subcategory.png)
-
-## 🚀 How to Run
-1. Clone this repository
-2. Install libraries: `pip install pandas matplotlib seaborn`
-3. Open `Superstore_EDA.ipynb` in Jupyter Notebook
-4. Run all cells
-
----
-*Part of my Data Analytics portfolio — [GitHub Profile](https://github.com/Rachitha-Avvaru)*
